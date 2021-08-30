@@ -1,0 +1,10 @@
+StudentName = "Jacobe Foster"
+print("The given name is", StudentName)
+StudentName = 5
+print("The given name is", StudentName)
+InputOne = 2
+InputTwo = 5
+result = InputOne-InputTwo
+print("The difference of the given nuumber", result)
+
+print("Hello world")
